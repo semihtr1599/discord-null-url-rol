@@ -1,6 +1,6 @@
 module.exports = {
 
- "TOKEN": 'MTIwMDc0NzQwNzk2NTY5MTk3NA.GOqHbT.dGd4gKElJdllpa6AA68C_XAYt2UjkX5_z1VIzo', // Bot Tokeni.
+ "TOKEN": 'MTIwMDc0NzQwNzk2NTY5MTk3NA.GtE2io.DFu_6Y9T93yx_lPyrZPr3Wnc3an6WO7H6IhbyUY', // Bot Tokeni.
  "GUILD_ID": '1199723340584198296',  // Sunucu (guild) ID'si.
  "ROLE_ID": '1201128405832323102',    // Hedef rol ID'si.
  "EXPECTED_STATUS": 'Bedeva Hesaplar:https://discord.gg/JYuydubqQB', // Kişilerin durumu.
